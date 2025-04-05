@@ -13,4 +13,4 @@ were taken from `yugioh.fandom.com`.
 Unfortunately the model weights were too large to
 upload to GitHub. If you'd like to download the
 `best.pt` file for the 40 epoch mode, please visit
-https://drive.google.com/file/d/1n2YkAPolGRvEkpMCAVRf5mBHtJQTmtyT/view?usp=drive_link
+https://drive.google.com/file/d/1n2YkAPolGRvEkpMCAVRf5mBHtJQTmtyT/view?usp=sharing
