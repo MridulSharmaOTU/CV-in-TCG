@@ -1,0 +1,10 @@
+# trading_cards.yaml
+# Ended up not using this file, but keeping it for reference.
+# This is a configuration file for a dataset of trading cards, specifically Magic: The Gathering and Yu-Gi-Oh! cards.
+
+train: "F:/trading_card_training_data/images/train"
+test: "F:/trading_card_training_data/images/test"
+val: "F:/trading_card_training_data/images/val"
+
+nc: 5
+names: ['mtg_6ed_to_2014', 'mtg_post2014', 'mtg_pre6ed', 'ygo', 'ygo_pendulum']
